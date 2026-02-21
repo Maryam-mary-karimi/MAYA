@@ -1,4 +1,4 @@
-# 🎼 MAYA: Music Agent Yar Ahang 
+# 🎼 MAYA: Musical Agent Yar Ahang 
 
 The Agentic Music Transcriber
 
